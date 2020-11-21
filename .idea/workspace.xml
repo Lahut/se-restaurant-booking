@@ -15,106 +15,66 @@
     <session id="-675366379">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.18" value="1" />
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.130" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="2" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.225" value="1" />
           <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.3" value="2" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="gitignore" value="2" />
-          <entry key="java" value="10" />
-          <entry key="json" value="2" />
-          <entry key="properties" value="1" />
-          <entry key="xml" value="3" />
+          <entry key="firebaserc" value="2" />
+          <entry key="gitignore" value="3" />
+          <entry key="java" value="12" />
+          <entry key="json" value="7" />
+          <entry key="properties" value="2" />
+          <entry key="xml" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="10" />
-          <entry key="JSON" value="2" />
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Properties" value="1" />
-          <entry key="XML" value="3" />
+          <entry key="JAVA" value="12" />
+          <entry key="JSON" value="7" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Properties" value="2" />
+          <entry key="XML" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="44" />
-          <entry key="java" value="5420" />
+          <entry key="java" value="5984" />
           <entry key="properties" value="20" />
-          <entry key="xml" value="5" />
+          <entry key="xml" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="5420" />
+          <entry key="JAVA" value="5984" />
           <entry key="PLAIN_TEXT" value="44" />
           <entry key="Properties" value="20" />
-          <entry key="XML" value="5" />
+          <entry key="XML" value="37" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../booking-restaurant-back/src/main/java/com/example/Sushikung/RestaurantBookingApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="10" column="72" selection-start-line="10" selection-start-column="72" selection-end-line="10" selection-end-column="72" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../booking-restaurant-back/src/main/java/com/example/Sushikung/Model/Ticket.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="83" column="5" lean-forward="true" selection-start-line="83" selection-start-column="5" selection-end-line="83" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <marker date="1603281998297" expanded="true" signature="1168:1275" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../booking-restaurant-back/src/main/java/com/example/Sushikung/Model/Duration.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="367">
-              <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../booking-restaurant-back/src/main/java/com/example/Sushikung/Controller/RestaurantController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="603">
-              <caret line="119" column="33" lean-forward="true" selection-start-line="119" selection-start-column="33" selection-end-line="119" selection-end-column="33" />
+            <state relative-caret-position="-876">
+              <caret line="111" column="84" lean-forward="true" selection-start-line="111" selection-start-column="84" selection-end-line="111" selection-end-column="84" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#getTicketById#0;class#RestaurantController#0" />
-                <element signature="method#getAllTicket#0;class#RestaurantController#0" />
-                <element signature="e#960#968#0" expanded="true" />
-                <element signature="method#getAllDuration#0;class#RestaurantController#0" />
-                <element signature="method#getTicket#0;class#RestaurantController#0" />
-                <marker date="1603283267293" expanded="true" signature="3120:3647" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../booking-restaurant-back/src/main/java/com/example/Sushikung/Model/Restaurant.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <marker date="1605973180762" expanded="true" signature="3320:4327" ph="..." />
               </folding>
             </state>
           </provider>
@@ -123,26 +83,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../booking-restaurant-back/src/main/java/com/example/Sushikung/service/FirebaseInitalizer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="45" column="9" lean-forward="true" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+            <state relative-caret-position="-320">
+              <caret line="52" column="62" lean-forward="true" selection-start-line="52" selection-start-column="62" selection-end-line="52" selection-end-column="62" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <marker date="1603279290225" expanded="false" signature="1557:2589" ph="..." />
+                <marker date="1605861502088" expanded="true" signature="1590:2623" ph="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../booking-restaurant-back/src/main/resources/se-restaurant-booking-firebase-adminsdk-qrfyj-9eb2a841e1.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../booking-restaurant-back/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -152,6 +98,29 @@
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="16" selection-start-column="16" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../booking-restaurant-back/src/main/resources/se-restaurant-booking-firebase-adminsdk-qrfyj-9996a7c2e3.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../booking-restaurant-back/src/main/java/com/example/Sushikung/RestaurantBookingApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../booking-restaurant-back/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -181,11 +150,12 @@
         <option value="$PROJECT_DIR$/../booking-restaurant-back/src/main/java/com/example/Sushikung/RestaurantBookingApplication.java" />
         <option value="$PROJECT_DIR$/../booking-restaurant-back/src/main/java/com/example/Sushikung/FBInitialize.java" />
         <option value="$PROJECT_DIR$/../booking-restaurant-back/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/../booking-restaurant-back/pom.xml" />
         <option value="$PROJECT_DIR$/../booking-restaurant-back/src/main/java/com/example/Sushikung/Model/Duration.java" />
-        <option value="$PROJECT_DIR$/../booking-restaurant-back/src/main/java/com/example/Sushikung/service/FirebaseInitalizer.java" />
         <option value="$PROJECT_DIR$/../booking-restaurant-back/src/main/java/com/example/Sushikung/Model/Restaurant.java" />
+        <option value="$PROJECT_DIR$/../booking-restaurant-back/src/main/java/com/example/Sushikung/Model/ErrorMessage.java" />
+        <option value="$PROJECT_DIR$/../booking-restaurant-back/pom.xml" />
         <option value="$PROJECT_DIR$/../booking-restaurant-back/src/main/java/com/example/Sushikung/Model/Ticket.java" />
+        <option value="$PROJECT_DIR$/../booking-restaurant-back/src/main/java/com/example/Sushikung/service/FirebaseInitalizer.java" />
         <option value="$PROJECT_DIR$/../booking-restaurant-back/src/main/java/com/example/Sushikung/Controller/RestaurantController.java" />
       </list>
     </option>
@@ -197,9 +167,10 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="1294" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="173" />
+    <option name="y" value="-23" />
+    <option name="width" value="1274" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -208,8 +179,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -284,7 +255,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1603283492238" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1603959537129" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -346,10 +317,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1294" height="1047" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2617504" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1418919" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -358,20 +328,20 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32968238" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3263965" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36117136" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32858709" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3275488" />
       <window_info anchor="bottom" id="Log Viewer" order="7" weight="0.32858709" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="SOQL Query" order="9" weight="0.32968238" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32858709" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3373102" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Anonymous Apex" order="12" weight="0.32968238" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32968238" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24984066" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
@@ -383,21 +353,73 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../booking-restaurant-back/src/main/java/com/example/Sushikung/FBInitialize.java" />
     <entry file="file://$PROJECT_DIR$/../booking-restaurant-back/src/main/resources/se-restaurant-booking-firebase-adminsdk-qrfyj-f0b0bc627f.json" />
+    <entry file="file://$PROJECT_DIR$/../booking-restaurant-back/src/main/java/com/example/Sushikung/Model/ErrorMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../booking-restaurant-back/src/main/java/com/example/Sushikung/Model/Restaurant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../booking-restaurant-back/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../booking-restaurant-back/src/main/resources/se-restaurant-booking-firebase-adminsdk-qrfyj-9eb2a841e1.json" />
+    <entry file="file://$PROJECT_DIR$/../booking-restaurant-back/src/main/java/com/example/Sushikung/Model/Duration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../booking-restaurant-back/src/main/java/com/example/Sushikung/Model/Ticket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="89" column="30" selection-start-line="89" selection-start-column="30" selection-end-line="89" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1562#1563#0" expanded="true" />
+            <element signature="e#1589#1590#0" expanded="true" />
+            <element signature="e#1629#1630#0" expanded="true" />
+            <element signature="e#1661#1662#0" expanded="true" />
+            <marker date="1603887584130" expanded="true" signature="1425:1532" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../booking-restaurant-back/firebase.json" />
+    <entry file="file://$PROJECT_DIR$/../booking-restaurant-back/.firebaserc" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../booking-restaurant-back/src/main/resources/se-restaurant-booking-firebase-adminsdk-qrfyj-9eb2a841e1.json">
+    <entry file="file://$PROJECT_DIR$/database.rules.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../booking-restaurant-back/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firebase.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.firebaserc">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/../booking-restaurant-back/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
@@ -406,71 +428,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../booking-restaurant-back/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/../booking-restaurant-back/src/main/resources/se-restaurant-booking-firebase-adminsdk-qrfyj-9996a7c2e3.json">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/../booking-restaurant-back/src/main/java/com/example/Sushikung/RestaurantBookingApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="10" column="72" selection-start-line="10" selection-start-column="72" selection-end-line="10" selection-end-column="72" />
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../booking-restaurant-back/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../booking-restaurant-back/src/main/java/com/example/Sushikung/service/FirebaseInitalizer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="45" column="9" lean-forward="true" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+        <state relative-caret-position="-320">
+          <caret line="52" column="62" lean-forward="true" selection-start-line="52" selection-start-column="62" selection-end-line="52" selection-end-column="62" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1603279290225" expanded="false" signature="1557:2589" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../booking-restaurant-back/src/main/java/com/example/Sushikung/Model/Restaurant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../booking-restaurant-back/src/main/java/com/example/Sushikung/Model/Duration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../booking-restaurant-back/src/main/java/com/example/Sushikung/Model/Ticket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="83" column="5" lean-forward="true" selection-start-line="83" selection-start-column="5" selection-end-line="83" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1603281998297" expanded="true" signature="1168:1275" ph="..." />
+            <marker date="1605861502088" expanded="true" signature="1590:2623" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../booking-restaurant-back/src/main/java/com/example/Sushikung/Controller/RestaurantController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="603">
-          <caret line="119" column="33" lean-forward="true" selection-start-line="119" selection-start-column="33" selection-end-line="119" selection-end-column="33" />
+        <state relative-caret-position="-876">
+          <caret line="111" column="84" lean-forward="true" selection-start-line="111" selection-start-column="84" selection-end-line="111" selection-end-column="84" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#getTicketById#0;class#RestaurantController#0" />
-            <element signature="method#getAllTicket#0;class#RestaurantController#0" />
-            <element signature="e#960#968#0" expanded="true" />
-            <element signature="method#getAllDuration#0;class#RestaurantController#0" />
-            <element signature="method#getTicket#0;class#RestaurantController#0" />
-            <marker date="1603283267293" expanded="true" signature="3120:3647" ph="..." />
+            <marker date="1605973180762" expanded="true" signature="3320:4327" ph="..." />
           </folding>
         </state>
       </provider>
